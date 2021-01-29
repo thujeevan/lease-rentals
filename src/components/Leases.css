@@ -1,0 +1,7 @@
+.ant-list-item {
+    cursor: pointer;
+}
+
+.ant-list-item:hover {
+    background-color: #fafafa;
+}
